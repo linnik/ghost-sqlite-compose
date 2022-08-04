@@ -1,3 +1,7 @@
+[![SSL Report](https://img.shields.io/badge/SSL%20Report-A-brightgreen)](https://www.ssllabs.com/ssltest)
+[![TLS Version](https://img.shields.io/badge/TLS-v1.3-blue)](#)
+[![Platform](https://img.shields.io/badge/platform-linux%20|%20macos%20|%20windows-lightgrey)](#)
+
 # ghost-sqlite-compose
 easy Ghost self-hosting with docker-compose
 
