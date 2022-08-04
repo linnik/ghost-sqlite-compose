@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/platform-linux%20|%20macos%20|%20windows-lightgrey)](#)
 
 # ghost-sqlite-compose
-easy Ghost self-hosting with docker-compose
+easy [Ghost](https://ghost.org/) self-hosting with docker-compose
 
 #### Prerequisites
 
